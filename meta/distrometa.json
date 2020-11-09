@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/splatboy20081/launcherstuff/blob/main/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/lucas/RootFiles/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
