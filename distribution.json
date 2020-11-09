@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "772982698032889897",
+    "smallImageText": "An all-new PvP experience",
+    "smallImageKey": "spvp"
   },
   "servers": [
     {
@@ -13,12 +13,12 @@
       "description": "Hypixel Running Minecraft 1.8.9 (Forge v11.15.1.1722)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "mc.hypixel.net:25565",
       "minecraftVersion": "1.8.9",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "Hypixel",
+        "largeImageText": "mc.hypixel.net",
+        "largeImageKey": "hypixel"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -233,7 +233,7 @@
       "description": "LightMC Running Minecraft 1.8.9 (Forge v11.15.1.1722)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "play.lightmc.ml:25565",
       "minecraftVersion": "1.8.9",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -677,8 +677,8 @@
       "minecraftVersion": "1.8.9",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "largeImageText": "play.nylonhq.xyz",
+        "largeImageKey": "nylonhq"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -893,12 +893,12 @@
       "description": "TheHive Running Minecraft 1.8.9 (Forge v11.15.1.1722)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "play.hivemc.eu:25565",
       "minecraftVersion": "1.8.9",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "largeImageText": "play.hivemc.eu",
+        "largeImageKey": "thehive"
       },
       "mainServer": false,
       "autoconnect": false,
